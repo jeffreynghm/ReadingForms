@@ -1,0 +1,230 @@
+2003ABE.pdf-0.png	Entity 	ALLENTOWN
+2003ABE.pdf-0.png	Entity 	PENNSYLVANIA
+2003ABE.pdf-0.png	Entity 	ABE
+2003ABE.pdf-0.png	Entity 	LOCAL CLIMATOLOGICAL
+2003ABE.pdf-0.png	Entity 	ANNUAL
+2003ABE.pdf-0.png	Entity 	COMPARATIVE
+2003ABE.pdf-0.png	Entity 	Dally Data
+2003ABE.pdf-0.png	Entity 	Inches Millimeters
+2003ABE.pdf-0.png	Entity 	IIIIIIJII
+2003ABE.pdf-0.png	Entity 	IIIIIIIIL
+2003ABE.pdf-0.png	Entity 	Mercury Hectopascals
+2003ABE.pdf-0.png	Entity 	THIS
+2003ABE.pdf-0.png	Entity 	IS
+2003ABE.pdf-0.png	Entity 	NATIONAL NATIONAL
+2003ABE.pdf-0.png	Entity 	ENVIRONMENTAL
+2003ABE.pdf-0.png	Entity 	DATA
+2003ABE.pdf-0.png	Entity 	ATMOSPHERIC ADMINISTRATION
+2003ABE.pdf-0.png	Entity 	SERVICE NATIONAL CLIMATIC
+2003ABE.pdf-0.png	Entity 	NORTH CAROLINA
+2003ABE.pdf-0.png	Entity 	NATIONAL CLIMATIC
+2003ABE.pdf-0.png	Entity 	THE NATIONAL
+2003ABE.pdf-0.png	Entity 	ATMOSPHERIC
+2003ABE.pdf-0.png	Entity 	THE NATIONAL CLIMATIC
+2003ABE.pdf-1.png	Entity 	METEOROLOGICAL
+2003ABE.pdf-1.png	Entity 	PA
+2003ABE.pdf-1.png	Entity 	ABE
+2003ABE.pdf-1.png	Entity 	EASTERN
+2003ABE.pdf-1.png	Entity 	UTC
+2003ABE.pdf-1.png	Entity 	ELEMENT
+2003ABE.pdf-1.png	Entity 	HIGHEST
+2003ABE.pdf-1.png	Entity 	DATE OF
+2003ABE.pdf-1.png	Entity 	MEAN
+2003ABE.pdf-1.png	Entity 	LOWEST
+2003ABE.pdf-1.png	Entity 	DATE OF AVERAGE
+2003ABE.pdf-1.png	Entity 	MEAN MEAN
+2003ABE.pdf-1.png	Entity 	OF
+2003ABE.pdf-1.png	Entity 	MINIMUM
+2003ABE.pdf-1.png	Entity 	MINIMUM DEGREE
+2003ABE.pdf-1.png	Entity 	PERCENT
+2003ABE.pdf-1.png	Entity 	PERCENT VISBY
+2003ABE.pdf-1.png	Entity 	OKTAS
+2003ABE.pdf-1.png	Entity 	MIDNIG
+2003ABE.pdf-1.png	Entity 	OKTAS NUMBEQ OF
+2003ABE.pdf-1.png	Entity 	CSEAQ PARTJY
+2003ABE.pdf-1.png	Entity 	MEAN MEAN RESULTAN
+2003ABE.pdf-1.png	Entity 	MPH
+2003ABE.pdf-1.png	Entity 	TENS OF
+2003ABE.pdf-1.png	Entity 	MEAN MP
+2003ABE.pdf-1.png	Entity 	TENS OF MAXIMUM
+2003ABE.pdf-1.png	Entity 	MPH ENS OF
+2003ABE.pdf-1.png	Entity 	DATE OF MAXIMUM
+2003ABE.pdf-1.png	Entity 	MPH ENS OF DATE OF
+2003ABE.pdf-1.png	Entity 	WATER
+2003ABE.pdf-1.png	Entity 	TOTAL
+2003ABE.pdf-1.png	Entity 	GREATEST
+2003ABE.pdf-1.png	Entity 	DANE OF
+2003ABE.pdf-1.png	Entity 	ICE
+2003ABE.pdf-1.png	Entity 	HAIL
+2003ABE.pdf-1.png	Entity 	TOTAL GREATEST
+2003ABE.pdf-1.png	Entity 	DANE OF DATE OF
+2003ABE.pdf-1.png	Entity 	NCDC Asheville
+2003ABE.pdf-2.png	Entity 	NORMALS
+2003ABE.pdf-2.png	Entity 	MEANS
+2003ABE.pdf-2.png	Entity 	AND
+2003ABE.pdf-2.png	Entity 	PA
+2003ABE.pdf-2.png	Entity 	ABE
+2003ABE.pdf-2.png	Entity 	EASTERN
+2003ABE.pdf-2.png	Entity 	UTC
+2003ABE.pdf-2.png	Entity 	ELEMENT FOR
+2003ABE.pdf-2.png	Entity 	MEAN
+2003ABE.pdf-2.png	Entity 	HIGHEST
+2003ABE.pdf-2.png	Entity 	EXTREME
+2003ABE.pdf-2.png	Entity 	MEAN LOWEST
+2003ABE.pdf-2.png	Entity 	MEAN OF EXTQEME
+2003ABE.pdf-2.png	Entity 	MEAN MEAN
+2003ABE.pdf-2.png	Entity 	MEAN COO
+2003ABE.pdf-2.png	Entity 	PEQCENT
+2003ABE.pdf-2.png	Entity 	HOUQ
+2003ABE.pdf-2.png	Entity 	HOUQ HOUQ
+2003ABE.pdf-2.png	Entity 	HOUQ PERCENT
+2003ABE.pdf-2.png	Entity 	FOG
+2003ABE.pdf-2.png	Entity 	OKTAS
+2003ABE.pdf-2.png	Entity 	OKTAS DAYS
+2003ABE.pdf-2.png	Entity 	PARTLY
+2003ABE.pdf-2.png	Entity 	MEAN MEAN MEAN
+2003ABE.pdf-2.png	Entity 	MPH
+2003ABE.pdf-2.png	Entity 	TENS OF
+2003ABE.pdf-2.png	Entity 	MAXIMUM
+2003ABE.pdf-2.png	Entity 	MPH OF
+2003ABE.pdf-2.png	Entity 	MAXIMUM MPH
+2003ABE.pdf-2.png	Entity 	OF
+2003ABE.pdf-2.png	Entity 	MAXIMUM MINIMUM
+2003ABE.pdf-2.png	Entity 	OCCURRENCE
+2003ABE.pdf-2.png	Entity 	MAXIMUM HOURS
+2003ABE.pdf-2.png	Entity 	MAXIMUM HOURS NCDC Asheville
+2003ABE.pdf-3.png	Entity 	PA
+2003ABE.pdf-3.png	Entity 	ABE
+2003ABE.pdf-3.png	Entity 	YEAR JAN
+2003ABE.pdf-3.png	Entity 	AVERAGE
+2003ABE.pdf-3.png	Entity 	PA ABE
+2003ABE.pdf-3.png	Entity 	YEAR JAN NCDC Asheville
+2003ABE.pdf-4.png	Entity 	DEGREE
+2003ABE.pdf-4.png	Entity 	PA
+2003ABE.pdf-4.png	Entity 	ABE
+2003ABE.pdf-4.png	Entity 	YEAR JUL
+2003ABE.pdf-4.png	Entity 	PA ABE
+2003ABE.pdf-4.png	Entity 	YEAR JAN
+2003ABE.pdf-4.png	Entity 	NCDC
+2003ABE.pdf-5.png	Entity 	PA
+2003ABE.pdf-5.png	Entity 	ABE
+2003ABE.pdf-5.png	Entity 	YEAR JUL
+2003ABE.pdf-5.png	Entity 	TEMPERATURE
+2003ABE.pdf-5.png	Entity 	NORMAL MAXIMUM
+2003ABE.pdf-5.png	Entity 	NORMAL
+2003ABE.pdf-5.png	Entity 	SOLID
+2003ABE.pdf-5.png	Entity 	THE ACTUAL
+2003ABE.pdf-5.png	Entity 	HIGH
+2003ABE.pdf-5.png	Entity 	VERTICAL
+2003ABE.pdf-5.png	Entity 	CLOUDINESS
+2003ABE.pdf-5.png	Entity 	SUM OF THE CEILOMETER
+2003ABE.pdf-5.png	Entity 	SATELLITE
+2003ABE.pdf-5.png	Entity 	OKTAS
+2003ABE.pdf-5.png	Entity 	INDICATES
+2003ABE.pdf-5.png	Entity 	AN AMOUNT
+2003ABE.pdf-5.png	Entity 	LOWEST
+2003ABE.pdf-5.png	Entity 	THE VALUE
+2003ABE.pdf-5.png	Entity 	BLANK
+2003ABE.pdf-5.png	Entity 	DENOTE
+2003ABE.pdf-5.png	Entity 	NOQMALS
+2003ABE.pdf-5.png	Entity 	AVERAGES
+2003ABE.pdf-5.png	Entity 	A505 INDICATES
+2003ABE.pdf-5.png	Entity 	THE LAST
+2003ABE.pdf-5.png	Entity 	THE
+2003ABE.pdf-5.png	Entity 	PERIOD OF
+2003ABE.pdf-5.png	Entity 	BEGINS
+2003ABE.pdf-5.png	Entity 	THE MEAN
+2003ABE.pdf-5.png	Entity 	INDIVIDUAL
+2003ABE.pdf-5.png	Entity 	THE POR
+2003ABE.pdf-5.png	Entity 	THE POR NORMAL
+2003ABE.pdf-5.png	Entity 	THE NORMAL
+2003ABE.pdf-5.png	Entity 	THE VALUE CLOUDINESS FOR
+2003ABE.pdf-5.png	Entity 	HUMAN
+2003ABE.pdf-5.png	Entity 	ASOS
+2003ABE.pdf-5.png	Entity 	CLOUDINESS FEET
+2003ABE.pdf-5.png	Entity 	THE PARTLY
+2003ABE.pdf-5.png	Entity 	AND
+2003ABE.pdf-5.png	Entity 	CONDITIONS FOR
+2003ABE.pdf-5.png	Entity 	THE SUM OF THE CEILOMETER
+2003ABE.pdf-5.png	Entity 	SATELLITE SUNRISE
+2003ABE.pdf-5.png	Entity 	SUNSET
+2003ABE.pdf-5.png	Entity 	GENERAL
+2003ABE.pdf-5.png	Entity 	OKTAS PARTLY
+2003ABE.pdf-5.png	Entity 	OKTAS AND
+2003ABE.pdf-5.png	Entity 	LEAST
+2003ABE.pdf-5.png	Entity 	THE ELEMENTS
+2003ABE.pdf-5.png	Entity 	CEILOMETER
+2003ABE.pdf-5.png	Entity 	THE DAILY CLOUDINESS
+2003ABE.pdf-5.png	Entity 	WIND
+2003ABE.pdf-5.png	Entity 	DEGREES
+2003ABE.pdf-5.png	Entity 	DIGITS
+2003ABE.pdf-5.png	Entity 	CLOCKWISE
+2003ABE.pdf-5.png	Entity 	INDICATES INDICATES
+2003ABE.pdf-5.png	Entity 	RESULTANT
+2003ABE.pdf-5.png	Entity 	THE VECTOR
+2003ABE.pdf-5.png	Entity 	THE SPEED
+2003ABE.pdf-5.png	Entity 	AVERAGE TEMPERATURE
+2003ABE.pdf-5.png	Entity 	THE SUM OF THE MEAN
+2003ABE.pdf-5.png	Entity 	MAXIMUM
+2003ABE.pdf-5.png	Entity 	MINIMUM
+2003ABE.pdf-5.png	Entity 	SNOWFALL
+2003ABE.pdf-5.png	Entity 	COMPRISE
+2003ABE.pdf-5.png	Entity 	INCLUDING
+2003ABE.pdf-5.png	Entity 	COOLING
+2003ABE.pdf-5.png	Entity 	DEGREE
+2003ABE.pdf-5.png	Entity 	THE DIFFERENCE
+2003ABE.pdf-5.png	Entity 	AVERAGE
+2003ABE.pdf-5.png	Entity 	THE TEMPERATURE OF THE AMBIENT
+2003ABE.pdf-5.png	Entity 	DEW
+2003ABE.pdf-5.png	Entity 	THE TEMPERATURE
+2003ABE.pdf-5.png	Entity 	AIR
+2003ABE.pdf-5.png	Entity 	PERCENT
+2003ABE.pdf-5.png	Entity 	WET
+2003ABE.pdf-5.png	Entity 	THE TEMPERATURE AIR
+2003ABE.pdf-5.png	Entity 	MOISTURE
+2003ABE.pdf-5.png	Entity 	PERCENT THE NATIONAL
+2003ABE.pdf-5.png	Entity 	METAR
+2003ABE.pdf-5.png	Entity 	MOST
+2003ABE.pdf-5.png	Entity 	THE WORLD
+2003ABE.pdf-5.png	Entity 	MOST THE CHANGE
+2003ABE.pdf-5.png	Entity 	TENTHS
+2003ABE.pdf-5.png	Entity 	OKTAS THE AMOUNT OF
+2003ABE.pdf-5.png	Entity 	NCDC Asheville
+2003ABE.pdf-6.png	Entity 	ALLENTOWN
+2003ABE.pdf-6.png	Entity 	PENNSYLVANIA Allentown
+2003ABE.pdf-6.png	Entity 	Lehigh River
+2003ABE.pdf-6.png	Entity 	Blue Mountain
+2003ABE.pdf-6.png	Entity 	South Mountain
+2003ABE.pdf-6.png	Entity 	Allentown
+2003ABE.pdf-6.png	Entity 	Philadelphia
+2003ABE.pdf-6.png	Entity 	ABE
+2003ABE.pdf-6.png	Entity 	Lehigh Valley
+2003ABE.pdf-6.png	Entity 	Lehigh
+2003ABE.pdf-7.png	Entity 	AIRPORT Old Administration Bldg
+2003ABE.pdf-7.png	Entity 	Easton Airport
+2003ABE.pdf-7.png	Entity 	NNE
+2003ABE.pdf-7.png	Entity 	Bldg
+2003ABE.pdf-7.png	Entity 	Easton Airport Lehigh Valley
+2003ABE.pdf-7.png	Entity 	Occupied Occupied
+2003ABE.pdf-7.png	Entity 	N HH
+2003ABE.pdf-7.png	Entity 	E M
+2003ABE.pdf-7.png	Entity 	T M
+2003ABE.pdf-7.png	Entity 	Hard Copy
+2003ABE.pdf-7.png	Entity 	Service
+2003ABE.pdf-7.png	Entity 	ELEVATION
+2003ABE.pdf-7.png	Entity 	ALLENTOWN
+2003ABE.pdf-7.png	Entity 	PENNSYLVANIA
+2003ABE.pdf-7.png	Entity 	NMHMSOENMIHONQKE
+2003ABE.pdf-7.png	Entity 	H
+2003ABE.pdf-7.png	Entity 	D
+2003ABE.pdf-7.png	Entity 	Rocket Center
+2003ABE.pdf-7.png	Entity 	Toll Eree
+2003ABE.pdf-7.png	Entity 	NCDC Customer Services
+2003ABE.pdf-7.png	Entity 	OFFICAL BUSINESS PENALTY FOR PRIVATE
+2003ABE.pdf-7.png	Entity 	FIRST
+2003ABE.pdf-7.png	Entity 	ASOS
+2003ABE.pdf-7.png	Entity 	Weather Bureau
+2003ABE.pdf-7.png	Entity 	ASOS FEES
+2003ABE.pdf-7.png	Entity 	United States
+2003ABE.pdf-7.png	Entity 	Commerce
+2003ABE.pdf-7.png	Entity 	CHANGE

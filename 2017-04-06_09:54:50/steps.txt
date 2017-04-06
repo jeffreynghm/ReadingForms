@@ -1,0 +1,1 @@
+['org', 'resiz', 'threshold', 'MorpGrad', 'sobel', 'blur', 'bw_Canny', 'bw_Hough_Canny', 'contours_bbox', 'outbw_contours', 'Org_Size']
